@@ -1,5 +1,7 @@
-## Hi there 👋
+## Olá, sou Rhuan Honorato, programador python e técnico em sistemas para internet 👋
+- 📙 Estudando API e automações <br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhuan1234&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **rhuan1234/rhuan1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div style=display: inline_block>
+<img align='center' height='30' width-'40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align='center' height='30' width-'40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align='center' height='30' width-'40'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align='center' height='30' width-'40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+</div>       
