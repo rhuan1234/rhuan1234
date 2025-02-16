@@ -56,8 +56,6 @@ Me chamo Rhuan Honorato, tenho 19 anos e sou natural do Tocantins. Concluí o en
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-          " 
-/>
 <img 
     align="left" 
     alt="Git" 
