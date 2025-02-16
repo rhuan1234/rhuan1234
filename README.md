@@ -55,7 +55,8 @@ Me chamo Rhuan Honorato, tenho 19 anos e sou natural do Tocantins. Concluí o en
     title="MYSQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg)" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+          " 
 />
 <img 
     align="left" 
@@ -79,10 +80,9 @@ Me chamo Rhuan Honorato, tenho 19 anos e sou natural do Tocantins. Concluí o en
     title="Linux"
     width="30px" 
     style="padding-right: 10px;" 
-    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
-
-            
+                    
           
 
 <br/>
